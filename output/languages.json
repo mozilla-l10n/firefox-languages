@@ -27,13 +27,6 @@
     "transform-type": "---",
     "transformed-name": "العربية"
   },
-  "as": {
-    "cldr-available": true,
-    "cldr-name": "অসমীয়া",
-    "mozilla-name": "অসমীয়া",
-    "transform-type": "---",
-    "transformed-name": "অসমীয়া"
-  },
   "ast": {
     "cldr-available": true,
     "cldr-name": "asturianu",
@@ -62,19 +55,19 @@
     "transform-type": "---",
     "transformed-name": "български"
   },
-  "bn-BD": {
+  "bn": {
     "cldr-available": true,
     "cldr-name": "বাংলা",
     "mozilla-name": "বাংলা",
     "transform-type": "---",
     "transformed-name": "বাংলা"
   },
-  "bn-IN": {
+  "bo": {
     "cldr-available": true,
-    "cldr-name": "---",
-    "mozilla-name": "বাংলা",
+    "cldr-name": "བོད་སྐད་",
+    "mozilla-name": "---",
     "transform-type": "---",
-    "transformed-name": "---"
+    "transformed-name": "བོད་སྐད་"
   },
   "br": {
     "cldr-available": true,
@@ -82,6 +75,13 @@
     "mozilla-name": "Brezhoneg",
     "transform-type": "---",
     "transformed-name": "brezhoneg"
+  },
+  "brx": {
+    "cldr-available": true,
+    "cldr-name": "बड़ो",
+    "mozilla-name": "---",
+    "transform-type": "---",
+    "transformed-name": "बड़ो"
   },
   "bs": {
     "cldr-available": true,
@@ -97,17 +97,17 @@
     "transform-type": "---",
     "transformed-name": "català"
   },
+  "ca-valencia": {
+    "cldr-available": false,
+    "cldr-name": "---",
+    "mozilla-name": "---",
+    "transform-type": "---",
+    "transformed-name": "---"
+  },
   "cak": {
     "cldr-available": false,
     "cldr-name": "---",
     "mozilla-name": "Kaqchikel",
-    "transform-type": "---",
-    "transformed-name": "---"
-  },
-  "crh": {
-    "cldr-available": false,
-    "cldr-name": "---",
-    "mozilla-name": "QIRIMTATARCA (Qırım Türkçesi)",
     "transform-type": "---",
     "transformed-name": "---"
   },
@@ -173,13 +173,6 @@
     "mozilla-name": "English",
     "transform-type": "---",
     "transformed-name": "English"
-  },
-  "en-ZA": {
-    "cldr-available": true,
-    "cldr-name": "---",
-    "mozilla-name": "English",
-    "transform-type": "---",
-    "transformed-name": "---"
   },
   "eo": {
     "cldr-available": true,
@@ -343,11 +336,11 @@
     "transformed-name": "հայերեն"
   },
   "ia": {
-    "cldr-available": false,
-    "cldr-name": "---",
+    "cldr-available": true,
+    "cldr-name": "interlingua",
     "mozilla-name": "Interlingua",
     "transform-type": "---",
-    "transformed-name": "---"
+    "transformed-name": "interlingua"
   },
   "id": {
     "cldr-available": true,
@@ -461,17 +454,10 @@
     "transform-type": "---",
     "transformed-name": "latviešu"
   },
-  "mai": {
-    "cldr-available": false,
-    "cldr-name": "---",
-    "mozilla-name": "---",
-    "transform-type": "---",
-    "transformed-name": "---"
-  },
   "meh": {
     "cldr-available": false,
     "cldr-name": "---",
-    "mozilla-name": "---",
+    "mozilla-name": "Mixteco tlaxiaco del sureste",
     "transform-type": "---",
     "transformed-name": "---"
   },
@@ -492,7 +478,7 @@
   "ml": {
     "cldr-available": true,
     "cldr-name": "മലയാളം",
-    "mozilla-name": "മലയാളം\\u0020",
+    "mozilla-name": "മലയാളം",
     "transform-type": "---",
     "transformed-name": "മലയാളം"
   },
@@ -551,13 +537,6 @@
     "mozilla-name": "Occitan",
     "transform-type": "---",
     "transformed-name": "---"
-  },
-  "or": {
-    "cldr-available": true,
-    "cldr-name": "ଓଡ଼ିଆ",
-    "mozilla-name": "---",
-    "transform-type": "---",
-    "transformed-name": "ଓଡ଼ିଆ"
   },
   "pa-IN": {
     "cldr-available": true,
@@ -735,11 +714,11 @@
     "transformed-name": "Wolof"
   },
   "xh": {
-    "cldr-available": false,
-    "cldr-name": "---",
+    "cldr-available": true,
+    "cldr-name": "isiXhosa",
     "mozilla-name": "IsiXhosa",
     "transform-type": "---",
-    "transformed-name": "---"
+    "transformed-name": "isiXhosa"
   },
   "zam": {
     "cldr-available": false,
