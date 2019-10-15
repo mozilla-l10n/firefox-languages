@@ -28,7 +28,7 @@ locale_map = {
     'zh-TW': 'zh-Hant',
 }
 
-# Map Firefox locales to locale code in languageNames.properties
+# Map Firefox locales to locale code in languageNames.ftl
 transvision_map = {
     'bn-BD': 'bn',
     'bn-IN': 'bn',
@@ -94,9 +94,9 @@ def main():
     script_folder = os.path.abspath(os.path.dirname(__file__))
     node_folder = os.path.join(script_folder, os.path.pardir, 'node_modules')
 
-    transvision_api = 'https://transvision.mozfr.org/api/v1/entity/' \
-                      'gecko_strings/?id=toolkit/chrome/global/' \
-                      'languageNames.properties:{}'
+    transvision_api = 'https://transvision.flod.org/api/v1/entity/' \
+                      'gecko_strings/?id=toolkit/toolkit/intl/' \
+                      'languageNames.ftl:language-name-{}'
 
     languages = OrderedDict()
     for locale in shipping_locales:
@@ -165,9 +165,10 @@ def main():
 
         # Apply text transformation
         language_name = languages[locale]['cldr-name']
-        if (languages[locale]['transform-type'] == 'titlecase-firstword' and
+        # If transform-type is not defined, assume capitalize
+        if (languages[locale]['transform-type'] in ['titlecase-firstword', '---'] and
                 language_name != '---'):
-            languages[locale]['transformed-name'] = language_name.capitalize()
+            languages[locale]['transformed-name'] = language_name.title()
         else:
             languages[locale]['transformed-name'] = language_name
 
