@@ -165,9 +165,10 @@ def main():
 
         # Apply text transformation
         language_name = languages[locale]['cldr-name']
-        if (languages[locale]['transform-type'] == 'titlecase-firstword' and
+        # If transform-type is not defined, assume capitalize
+        if (languages[locale]['transform-type'] in ['titlecase-firstword', '---'] and
                 language_name != '---'):
-            languages[locale]['transformed-name'] = language_name.capitalize()
+            languages[locale]['transformed-name'] = language_name.title()
         else:
             languages[locale]['transformed-name'] = language_name
 
