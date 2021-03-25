@@ -111,6 +111,13 @@
     "transform-type": "---",
     "transformed-name": "---"
   },
+  "ckb": {
+    "cldr-available": true,
+    "cldr-name": "کوردیی ناوەندی",
+    "mozilla-name": "---",
+    "transform-type": "---",
+    "transformed-name": "کوردیی ناوەندی"
+  },
   "cs": {
     "cldr-available": true,
     "cldr-name": "čeština",
@@ -335,6 +342,13 @@
     "transform-type": "---",
     "transformed-name": "Հայերեն"
   },
+  "hye": {
+    "cldr-available": false,
+    "cldr-name": "---",
+    "mozilla-name": "---",
+    "transform-type": "---",
+    "transformed-name": "---"
+  },
   "ia": {
     "cldr-available": true,
     "cldr-name": "interlingua",
@@ -478,7 +492,7 @@
   "ml": {
     "cldr-available": true,
     "cldr-name": "മലയാളം",
-    "mozilla-name": "മലയാളം",
+    "mozilla-name": "---",
     "transform-type": "---",
     "transformed-name": "മലയാളം"
   },
@@ -506,7 +520,7 @@
   "nb-NO": {
     "cldr-available": true,
     "cldr-name": "norsk bokmål",
-    "mozilla-name": "Norsk bokmål",
+    "mozilla-name": "Norsk (bokmål)",
     "transform-type": "---",
     "transformed-name": "Norsk Bokmål"
   },
@@ -526,10 +540,10 @@
   },
   "nn-NO": {
     "cldr-available": true,
-    "cldr-name": "nynorsk",
-    "mozilla-name": "Norsk nynorsk",
+    "cldr-name": "norsk nynorsk",
+    "mozilla-name": "Norsk (nynorsk)",
     "transform-type": "---",
-    "transformed-name": "Nynorsk"
+    "transformed-name": "Norsk Nynorsk"
   },
   "oc": {
     "cldr-available": false,
@@ -587,6 +601,13 @@
     "transform-type": "titlecase-firstword",
     "transformed-name": "Русский"
   },
+  "scn": {
+    "cldr-available": false,
+    "cldr-name": "---",
+    "mozilla-name": "---",
+    "transform-type": "---",
+    "transformed-name": "---"
+  },
   "si": {
     "cldr-available": true,
     "cldr-name": "සිංහල",
@@ -636,6 +657,13 @@
     "transform-type": "titlecase-firstword",
     "transformed-name": "Svenska"
   },
+  "szl": {
+    "cldr-available": false,
+    "cldr-name": "---",
+    "mozilla-name": "---",
+    "transform-type": "---",
+    "transformed-name": "---"
+  },
   "ta": {
     "cldr-available": true,
     "cldr-name": "தமிழ்",
@@ -674,7 +702,7 @@
   "trs": {
     "cldr-available": false,
     "cldr-name": "---",
-    "mozilla-name": "---",
+    "mozilla-name": "Nânj nï’ïn",
     "transform-type": "---",
     "transformed-name": "---"
   },
