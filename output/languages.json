@@ -156,7 +156,7 @@
   "el": {
     "cldr-available": true,
     "cldr-name": "Ελληνικά",
-    "mozilla-name": "Ελληνική",
+    "mozilla-name": "Ελληνικά",
     "transform-type": "---",
     "transformed-name": "Ελληνικά"
   },
@@ -601,10 +601,31 @@
     "transform-type": "titlecase-firstword",
     "transformed-name": "Русский"
   },
+  "sat": {
+    "cldr-available": true,
+    "cldr-name": "ᱥᱟᱱᱛᱟᱲᱤ",
+    "mozilla-name": "---",
+    "transform-type": "---",
+    "transformed-name": "ᱥᱟᱱᱛᱟᱲᱤ"
+  },
+  "sc": {
+    "cldr-available": true,
+    "cldr-name": "sardu",
+    "mozilla-name": "Sardu",
+    "transform-type": "---",
+    "transformed-name": "Sardu"
+  },
   "scn": {
     "cldr-available": false,
     "cldr-name": "---",
     "mozilla-name": "---",
+    "transform-type": "---",
+    "transformed-name": "---"
+  },
+  "sco": {
+    "cldr-available": false,
+    "cldr-name": "---",
+    "mozilla-name": "Scots",
     "transform-type": "---",
     "transformed-name": "---"
   },
@@ -639,7 +660,7 @@
   "sq": {
     "cldr-available": true,
     "cldr-name": "shqip",
-    "mozilla-name": "Shqipe",
+    "mozilla-name": "Shqip",
     "transform-type": "---",
     "transformed-name": "Shqip"
   },
@@ -660,7 +681,7 @@
   "szl": {
     "cldr-available": false,
     "cldr-name": "---",
-    "mozilla-name": "---",
+    "mozilla-name": "Ślōnsko",
     "transform-type": "---",
     "transformed-name": "---"
   },
@@ -677,6 +698,13 @@
     "mozilla-name": "తెలుగు",
     "transform-type": "---",
     "transformed-name": "తెలుగు"
+  },
+  "tg": {
+    "cldr-available": true,
+    "cldr-name": "тоҷикӣ",
+    "mozilla-name": "---",
+    "transform-type": "---",
+    "transformed-name": "Тоҷикӣ"
   },
   "th": {
     "cldr-available": true,

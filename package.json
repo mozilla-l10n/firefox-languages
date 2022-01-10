@@ -4,8 +4,8 @@
     "description": "",
     "main": "index.js",
     "dependencies": {
-        "cldr-localenames-full": "^38.1.0",
-        "cldr-misc-full": "^38.1.0"
+        "cldr-localenames-full": "^40.0.0",
+        "cldr-misc-full": "^40.0.0"
     },
     "devDependencies": {},
     "scripts": {
