@@ -258,6 +258,13 @@
     "transform-type": "titlecase-firstword",
     "transformed-name": "Français"
   },
+  "fur": {
+    "cldr-available": true,
+    "cldr-name": "furlan",
+    "mozilla-name": "---",
+    "transform-type": "---",
+    "transformed-name": "Furlan"
+  },
   "fy-NL": {
     "cldr-available": true,
     "cldr-name": "Frysk",
@@ -702,7 +709,7 @@
   "tg": {
     "cldr-available": true,
     "cldr-name": "тоҷикӣ",
-    "mozilla-name": "---",
+    "mozilla-name": "Тоҷикӣ",
     "transform-type": "---",
     "transformed-name": "Тоҷикӣ"
   },
