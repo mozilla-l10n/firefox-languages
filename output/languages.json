@@ -650,6 +650,13 @@
     "transform-type": "titlecase-firstword",
     "transformed-name": "Slovenčina"
   },
+  "skr": {
+    "cldr-available": false,
+    "cldr-name": "---",
+    "mozilla-name": "---",
+    "transform-type": "---",
+    "transformed-name": "---"
+  },
   "sl": {
     "cldr-available": true,
     "cldr-name": "slovenščina",
