@@ -94,6 +94,8 @@ def main():
     # Path to this script and node modules
     script_folder = os.path.abspath(os.path.dirname(__file__))
     node_folder = os.path.join(script_folder, os.path.pardir, "node_modules")
+    if not os.path.isdir(node_folder):
+        sys.exit("Node modules not installed")
 
     transvision_api = (
         "https://transvision.flod.org/api/v1/entity/"
