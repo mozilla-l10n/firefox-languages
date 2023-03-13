@@ -7,11 +7,11 @@
     "transformed-name": "---"
   },
   "af": {
-    "cldr-available": true,
-    "cldr-name": "Afrikaans",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Afrikaans",
     "transform-type": "---",
-    "transformed-name": "Afrikaans"
+    "transformed-name": "---"
   },
   "an": {
     "cldr-available": false,
@@ -21,81 +21,81 @@
     "transformed-name": "---"
   },
   "ar": {
-    "cldr-available": true,
-    "cldr-name": "العربية",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "العربية",
     "transform-type": "---",
-    "transformed-name": "العربية"
+    "transformed-name": "---"
   },
   "ast": {
-    "cldr-available": true,
-    "cldr-name": "asturianu",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Asturianu",
     "transform-type": "---",
-    "transformed-name": "Asturianu"
+    "transformed-name": "---"
   },
   "az": {
-    "cldr-available": true,
-    "cldr-name": "azərbaycan",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Azərbaycanca",
     "transform-type": "---",
-    "transformed-name": "Azərbaycan"
+    "transformed-name": "---"
   },
   "be": {
-    "cldr-available": true,
-    "cldr-name": "беларуская",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Беларуская",
     "transform-type": "---",
-    "transformed-name": "Беларуская"
+    "transformed-name": "---"
   },
   "bg": {
-    "cldr-available": true,
-    "cldr-name": "български",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Български",
     "transform-type": "---",
-    "transformed-name": "Български"
+    "transformed-name": "---"
   },
   "bn": {
-    "cldr-available": true,
-    "cldr-name": "বাংলা",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "বাংলা",
     "transform-type": "---",
-    "transformed-name": "বাংলা"
+    "transformed-name": "---"
   },
   "bo": {
-    "cldr-available": true,
-    "cldr-name": "བོད་སྐད་",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "---",
     "transform-type": "---",
-    "transformed-name": "བོད་སྐད་"
+    "transformed-name": "---"
   },
   "br": {
-    "cldr-available": true,
-    "cldr-name": "brezhoneg",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Brezhoneg",
     "transform-type": "---",
-    "transformed-name": "Brezhoneg"
+    "transformed-name": "---"
   },
   "brx": {
-    "cldr-available": true,
-    "cldr-name": "बड़ो",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "---",
     "transform-type": "---",
-    "transformed-name": "बड़ो"
+    "transformed-name": "---"
   },
   "bs": {
-    "cldr-available": true,
-    "cldr-name": "bosanski",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Bosanski",
     "transform-type": "---",
-    "transformed-name": "Bosanski"
+    "transformed-name": "---"
   },
   "ca": {
-    "cldr-available": true,
-    "cldr-name": "català",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Català",
     "transform-type": "---",
-    "transformed-name": "Català"
+    "transformed-name": "---"
   },
   "ca-valencia": {
     "cldr-available": false,
@@ -112,186 +112,186 @@
     "transformed-name": "---"
   },
   "ckb": {
-    "cldr-available": true,
-    "cldr-name": "کوردیی ناوەندی",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "---",
     "transform-type": "---",
-    "transformed-name": "کوردیی ناوەندی"
+    "transformed-name": "---"
   },
   "cs": {
-    "cldr-available": true,
-    "cldr-name": "čeština",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Čeština",
-    "transform-type": "titlecase-firstword",
-    "transformed-name": "Čeština"
+    "transform-type": "---",
+    "transformed-name": "---"
   },
   "cy": {
-    "cldr-available": true,
-    "cldr-name": "Cymraeg",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Cymraeg",
     "transform-type": "---",
-    "transformed-name": "Cymraeg"
+    "transformed-name": "---"
   },
   "da": {
-    "cldr-available": true,
-    "cldr-name": "dansk",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Dansk",
-    "transform-type": "titlecase-firstword",
-    "transformed-name": "Dansk"
+    "transform-type": "---",
+    "transformed-name": "---"
   },
   "de": {
-    "cldr-available": true,
-    "cldr-name": "Deutsch",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Deutsch",
     "transform-type": "---",
-    "transformed-name": "Deutsch"
+    "transformed-name": "---"
   },
   "dsb": {
-    "cldr-available": true,
-    "cldr-name": "dolnoserbšćina",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Dolnoserbšćina",
     "transform-type": "---",
-    "transformed-name": "Dolnoserbšćina"
+    "transformed-name": "---"
   },
   "el": {
-    "cldr-available": true,
-    "cldr-name": "Ελληνικά",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Ελληνικά",
     "transform-type": "---",
-    "transformed-name": "Ελληνικά"
+    "transformed-name": "---"
   },
   "en-CA": {
-    "cldr-available": true,
-    "cldr-name": "Canadian English",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "English",
     "transform-type": "---",
-    "transformed-name": "Canadian English"
+    "transformed-name": "---"
   },
   "en-GB": {
-    "cldr-available": true,
-    "cldr-name": "British English",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "English",
     "transform-type": "---",
-    "transformed-name": "British English"
+    "transformed-name": "---"
   },
   "en-US": {
-    "cldr-available": true,
-    "cldr-name": "English",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "English",
     "transform-type": "---",
-    "transformed-name": "English"
+    "transformed-name": "---"
   },
   "eo": {
-    "cldr-available": true,
-    "cldr-name": "esperanto",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Esperanto",
     "transform-type": "---",
-    "transformed-name": "Esperanto"
+    "transformed-name": "---"
   },
   "es-AR": {
-    "cldr-available": true,
+    "cldr-available": false,
     "cldr-name": "---",
     "mozilla-name": "Español",
-    "transform-type": "titlecase-firstword",
+    "transform-type": "---",
     "transformed-name": "---"
   },
   "es-CL": {
-    "cldr-available": true,
+    "cldr-available": false,
     "cldr-name": "---",
     "mozilla-name": "Español",
-    "transform-type": "titlecase-firstword",
+    "transform-type": "---",
     "transformed-name": "---"
   },
   "es-ES": {
-    "cldr-available": true,
-    "cldr-name": "español",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Español",
-    "transform-type": "titlecase-firstword",
-    "transformed-name": "Español"
+    "transform-type": "---",
+    "transformed-name": "---"
   },
   "es-MX": {
-    "cldr-available": true,
-    "cldr-name": "español de México",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Español",
-    "transform-type": "titlecase-firstword",
-    "transformed-name": "Español De México"
+    "transform-type": "---",
+    "transformed-name": "---"
   },
   "et": {
-    "cldr-available": true,
-    "cldr-name": "eesti",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Eesti",
     "transform-type": "---",
-    "transformed-name": "Eesti"
+    "transformed-name": "---"
   },
   "eu": {
-    "cldr-available": true,
-    "cldr-name": "euskara",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Euskara",
     "transform-type": "---",
-    "transformed-name": "Euskara"
+    "transformed-name": "---"
   },
   "fa": {
-    "cldr-available": true,
-    "cldr-name": "فارسی",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "فارسی",
     "transform-type": "---",
-    "transformed-name": "فارسی"
+    "transformed-name": "---"
   },
   "ff": {
-    "cldr-available": true,
-    "cldr-name": "Pulaar",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Fulfulde",
     "transform-type": "---",
-    "transformed-name": "Pulaar"
+    "transformed-name": "---"
   },
   "fi": {
-    "cldr-available": true,
-    "cldr-name": "suomi",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "suomi",
-    "transform-type": "titlecase-firstword",
-    "transformed-name": "Suomi"
+    "transform-type": "---",
+    "transformed-name": "---"
   },
   "fr": {
-    "cldr-available": true,
-    "cldr-name": "français",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Français",
-    "transform-type": "titlecase-firstword",
-    "transformed-name": "Français"
+    "transform-type": "---",
+    "transformed-name": "---"
   },
   "fur": {
-    "cldr-available": true,
-    "cldr-name": "furlan",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "---",
     "transform-type": "---",
-    "transformed-name": "Furlan"
+    "transformed-name": "---"
   },
   "fy-NL": {
-    "cldr-available": true,
-    "cldr-name": "Frysk",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Frysk",
     "transform-type": "---",
-    "transformed-name": "Frysk"
+    "transformed-name": "---"
   },
   "ga-IE": {
-    "cldr-available": true,
-    "cldr-name": "Gaeilge",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Gaeilge",
     "transform-type": "---",
-    "transformed-name": "Gaeilge"
+    "transformed-name": "---"
   },
   "gd": {
-    "cldr-available": true,
-    "cldr-name": "Gàidhlig",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Gàidhlig",
     "transform-type": "---",
-    "transformed-name": "Gàidhlig"
+    "transformed-name": "---"
   },
   "gl": {
-    "cldr-available": true,
-    "cldr-name": "galego",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Galego",
     "transform-type": "---",
-    "transformed-name": "Galego"
+    "transformed-name": "---"
   },
   "gn": {
     "cldr-available": false,
@@ -301,53 +301,53 @@
     "transformed-name": "---"
   },
   "gu-IN": {
-    "cldr-available": true,
-    "cldr-name": "ગુજરાતી",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "ગુજરાતી",
     "transform-type": "---",
-    "transformed-name": "ગુજરાતી"
+    "transformed-name": "---"
   },
   "he": {
-    "cldr-available": true,
-    "cldr-name": "עברית",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "עברית",
     "transform-type": "---",
-    "transformed-name": "עברית"
+    "transformed-name": "---"
   },
   "hi-IN": {
-    "cldr-available": true,
-    "cldr-name": "हिन्दी",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "हिन्दी",
     "transform-type": "---",
-    "transformed-name": "हिन्दी"
+    "transformed-name": "---"
   },
   "hr": {
-    "cldr-available": true,
-    "cldr-name": "hrvatski",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Hrvatski",
-    "transform-type": "titlecase-firstword",
-    "transformed-name": "Hrvatski"
+    "transform-type": "---",
+    "transformed-name": "---"
   },
   "hsb": {
-    "cldr-available": true,
-    "cldr-name": "hornjoserbšćina",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Hornjoserbšćina",
     "transform-type": "---",
-    "transformed-name": "Hornjoserbšćina"
+    "transformed-name": "---"
   },
   "hu": {
-    "cldr-available": true,
-    "cldr-name": "magyar",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "magyar",
     "transform-type": "---",
-    "transformed-name": "Magyar"
+    "transformed-name": "---"
   },
   "hy-AM": {
-    "cldr-available": true,
-    "cldr-name": "հայերեն",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Հայերեն",
     "transform-type": "---",
-    "transformed-name": "Հայերեն"
+    "transformed-name": "---"
   },
   "hye": {
     "cldr-available": false,
@@ -357,88 +357,88 @@
     "transformed-name": "---"
   },
   "ia": {
-    "cldr-available": true,
-    "cldr-name": "interlingua",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Interlingua",
     "transform-type": "---",
-    "transformed-name": "Interlingua"
+    "transformed-name": "---"
   },
   "id": {
-    "cldr-available": true,
-    "cldr-name": "Indonesia",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Indonesia",
     "transform-type": "---",
-    "transformed-name": "Indonesia"
+    "transformed-name": "---"
   },
   "is": {
-    "cldr-available": true,
-    "cldr-name": "íslenska",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Íslenska",
     "transform-type": "---",
-    "transformed-name": "Íslenska"
+    "transformed-name": "---"
   },
   "it": {
-    "cldr-available": true,
-    "cldr-name": "italiano",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Italiano",
-    "transform-type": "titlecase-firstword",
-    "transformed-name": "Italiano"
+    "transform-type": "---",
+    "transformed-name": "---"
   },
   "ja": {
-    "cldr-available": true,
-    "cldr-name": "日本語",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "日本語",
     "transform-type": "---",
-    "transformed-name": "日本語"
+    "transformed-name": "---"
   },
   "ja-JP-mac": {
-    "cldr-available": true,
-    "cldr-name": "日本語",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "日本語",
     "transform-type": "---",
-    "transformed-name": "日本語"
+    "transformed-name": "---"
   },
   "ka": {
-    "cldr-available": true,
-    "cldr-name": "ქართული",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "ქართული",
     "transform-type": "---",
-    "transformed-name": "ქართული"
+    "transformed-name": "---"
   },
   "kab": {
-    "cldr-available": true,
-    "cldr-name": "Taqbaylit",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Taqbaylit",
     "transform-type": "---",
-    "transformed-name": "Taqbaylit"
+    "transformed-name": "---"
   },
   "kk": {
-    "cldr-available": true,
-    "cldr-name": "қазақ тілі",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Қазақ",
     "transform-type": "---",
-    "transformed-name": "Қазақ Тілі"
+    "transformed-name": "---"
   },
   "km": {
-    "cldr-available": true,
-    "cldr-name": "ខ្មែរ",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "ខ្មែរ",
     "transform-type": "---",
-    "transformed-name": "ខ្មែរ"
+    "transformed-name": "---"
   },
   "kn": {
-    "cldr-available": true,
-    "cldr-name": "ಕನ್ನಡ",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "ಕನ್ನಡ",
     "transform-type": "---",
-    "transformed-name": "ಕನ್ನಡ"
+    "transformed-name": "---"
   },
   "ko": {
-    "cldr-available": true,
-    "cldr-name": "한국어",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "한국어",
     "transform-type": "---",
-    "transformed-name": "한국어"
+    "transformed-name": "---"
   },
   "lij": {
     "cldr-available": false,
@@ -448,18 +448,18 @@
     "transformed-name": "---"
   },
   "lo": {
-    "cldr-available": true,
-    "cldr-name": "ລາວ",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "ພາສາລາວ",
     "transform-type": "---",
-    "transformed-name": "ລາວ"
+    "transformed-name": "---"
   },
   "lt": {
-    "cldr-available": true,
-    "cldr-name": "lietuvių",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Lietuvių",
     "transform-type": "---",
-    "transformed-name": "Lietuvių"
+    "transformed-name": "---"
   },
   "ltg": {
     "cldr-available": false,
@@ -469,11 +469,11 @@
     "transformed-name": "---"
   },
   "lv": {
-    "cldr-available": true,
-    "cldr-name": "latviešu",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Latviešu",
     "transform-type": "---",
-    "transformed-name": "Latviešu"
+    "transformed-name": "---"
   },
   "meh": {
     "cldr-available": false,
@@ -490,67 +490,67 @@
     "transformed-name": "---"
   },
   "mk": {
-    "cldr-available": true,
-    "cldr-name": "македонски",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Македонски",
     "transform-type": "---",
-    "transformed-name": "Македонски"
+    "transformed-name": "---"
   },
   "ml": {
-    "cldr-available": true,
-    "cldr-name": "മലയാളം",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "---",
     "transform-type": "---",
-    "transformed-name": "മലയാളം"
+    "transformed-name": "---"
   },
   "mr": {
-    "cldr-available": true,
-    "cldr-name": "मराठी",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "मराठी",
     "transform-type": "---",
-    "transformed-name": "मराठी"
+    "transformed-name": "---"
   },
   "ms": {
-    "cldr-available": true,
-    "cldr-name": "Melayu",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Melayu",
     "transform-type": "---",
-    "transformed-name": "Melayu"
+    "transformed-name": "---"
   },
   "my": {
-    "cldr-available": true,
-    "cldr-name": "မြန်မာ",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "မြန်မာ",
     "transform-type": "---",
-    "transformed-name": "မြန်မာ"
+    "transformed-name": "---"
   },
   "nb-NO": {
-    "cldr-available": true,
-    "cldr-name": "norsk bokmål",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Norsk (bokmål)",
     "transform-type": "---",
-    "transformed-name": "Norsk Bokmål"
+    "transformed-name": "---"
   },
   "ne-NP": {
-    "cldr-available": true,
-    "cldr-name": "नेपाली",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "बेलारुसीयन",
     "transform-type": "---",
-    "transformed-name": "नेपाली"
+    "transformed-name": "---"
   },
   "nl": {
-    "cldr-available": true,
-    "cldr-name": "Nederlands",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Nederlands",
     "transform-type": "---",
-    "transformed-name": "Nederlands"
+    "transformed-name": "---"
   },
   "nn-NO": {
-    "cldr-available": true,
-    "cldr-name": "norsk nynorsk",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Norsk (nynorsk)",
     "transform-type": "---",
-    "transformed-name": "Norsk Nynorsk"
+    "transformed-name": "---"
   },
   "oc": {
     "cldr-available": false,
@@ -560,67 +560,67 @@
     "transformed-name": "---"
   },
   "pa-IN": {
-    "cldr-available": true,
-    "cldr-name": "ਪੰਜਾਬੀ",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "ਪੰਜਾਬੀ",
     "transform-type": "---",
-    "transformed-name": "ਪੰਜਾਬੀ"
+    "transformed-name": "---"
   },
   "pl": {
-    "cldr-available": true,
-    "cldr-name": "polski",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Polski",
     "transform-type": "---",
-    "transformed-name": "Polski"
+    "transformed-name": "---"
   },
   "pt-BR": {
-    "cldr-available": true,
-    "cldr-name": "português",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Português",
-    "transform-type": "titlecase-firstword",
-    "transformed-name": "Português"
+    "transform-type": "---",
+    "transformed-name": "---"
   },
   "pt-PT": {
-    "cldr-available": true,
-    "cldr-name": "português europeu",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Português",
-    "transform-type": "no-change",
-    "transformed-name": "português europeu"
+    "transform-type": "---",
+    "transformed-name": "---"
   },
   "rm": {
-    "cldr-available": true,
-    "cldr-name": "rumantsch",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Rumantsch",
     "transform-type": "---",
-    "transformed-name": "Rumantsch"
+    "transformed-name": "---"
   },
   "ro": {
-    "cldr-available": true,
-    "cldr-name": "română",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Română",
     "transform-type": "---",
-    "transformed-name": "Română"
+    "transformed-name": "---"
   },
   "ru": {
-    "cldr-available": true,
-    "cldr-name": "русский",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Русский",
-    "transform-type": "titlecase-firstword",
-    "transformed-name": "Русский"
+    "transform-type": "---",
+    "transformed-name": "---"
   },
   "sat": {
-    "cldr-available": true,
-    "cldr-name": "ᱥᱟᱱᱛᱟᱲᱤ",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "---",
     "transform-type": "---",
-    "transformed-name": "ᱥᱟᱱᱛᱟᱲᱤ"
+    "transformed-name": "---"
   },
   "sc": {
-    "cldr-available": true,
-    "cldr-name": "sardu",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Sardu",
     "transform-type": "---",
-    "transformed-name": "Sardu"
+    "transformed-name": "---"
   },
   "scn": {
     "cldr-available": false,
@@ -637,18 +637,18 @@
     "transformed-name": "---"
   },
   "si": {
-    "cldr-available": true,
-    "cldr-name": "සිංහල",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "සිංහල",
     "transform-type": "---",
-    "transformed-name": "සිංහල"
+    "transformed-name": "---"
   },
   "sk": {
-    "cldr-available": true,
-    "cldr-name": "slovenčina",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Slovenčina",
-    "transform-type": "titlecase-firstword",
-    "transformed-name": "Slovenčina"
+    "transform-type": "---",
+    "transformed-name": "---"
   },
   "skr": {
     "cldr-available": false,
@@ -658,11 +658,11 @@
     "transformed-name": "---"
   },
   "sl": {
-    "cldr-available": true,
-    "cldr-name": "slovenščina",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "slovenščina",
     "transform-type": "---",
-    "transformed-name": "Slovenščina"
+    "transformed-name": "---"
   },
   "son": {
     "cldr-available": false,
@@ -672,25 +672,25 @@
     "transformed-name": "---"
   },
   "sq": {
-    "cldr-available": true,
-    "cldr-name": "shqip",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Shqip",
     "transform-type": "---",
-    "transformed-name": "Shqip"
+    "transformed-name": "---"
   },
   "sr": {
-    "cldr-available": true,
-    "cldr-name": "српски",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "српски",
     "transform-type": "---",
-    "transformed-name": "Српски"
+    "transformed-name": "---"
   },
   "sv-SE": {
-    "cldr-available": true,
-    "cldr-name": "svenska",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Svenska",
-    "transform-type": "titlecase-firstword",
-    "transformed-name": "Svenska"
+    "transform-type": "---",
+    "transformed-name": "---"
   },
   "szl": {
     "cldr-available": false,
@@ -700,32 +700,32 @@
     "transformed-name": "---"
   },
   "ta": {
-    "cldr-available": true,
-    "cldr-name": "தமிழ்",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "தமிழ்",
     "transform-type": "---",
-    "transformed-name": "தமிழ்"
+    "transformed-name": "---"
   },
   "te": {
-    "cldr-available": true,
-    "cldr-name": "తెలుగు",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "తెలుగు",
     "transform-type": "---",
-    "transformed-name": "తెలుగు"
+    "transformed-name": "---"
   },
   "tg": {
-    "cldr-available": true,
-    "cldr-name": "тоҷикӣ",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Тоҷикӣ",
     "transform-type": "---",
-    "transformed-name": "Тоҷикӣ"
+    "transformed-name": "---"
   },
   "th": {
-    "cldr-available": true,
-    "cldr-name": "ไทย",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "ไทย",
     "transform-type": "---",
-    "transformed-name": "ไทย"
+    "transformed-name": "---"
   },
   "tl": {
     "cldr-available": false,
@@ -735,11 +735,11 @@
     "transformed-name": "---"
   },
   "tr": {
-    "cldr-available": true,
-    "cldr-name": "Türkçe",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Türkçe",
     "transform-type": "---",
-    "transformed-name": "Türkçe"
+    "transformed-name": "---"
   },
   "trs": {
     "cldr-available": false,
@@ -749,46 +749,46 @@
     "transformed-name": "---"
   },
   "uk": {
-    "cldr-available": true,
-    "cldr-name": "українська",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Українська",
-    "transform-type": "titlecase-firstword",
-    "transformed-name": "Українська"
+    "transform-type": "---",
+    "transformed-name": "---"
   },
   "ur": {
-    "cldr-available": true,
-    "cldr-name": "اردو",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "اردو",
     "transform-type": "---",
-    "transformed-name": "اردو"
+    "transformed-name": "---"
   },
   "uz": {
-    "cldr-available": true,
-    "cldr-name": "o‘zbek",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Oʻzbekcha",
     "transform-type": "---",
-    "transformed-name": "O‘Zbek"
+    "transformed-name": "---"
   },
   "vi": {
-    "cldr-available": true,
-    "cldr-name": "Tiếng Việt",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Việt",
     "transform-type": "---",
-    "transformed-name": "Tiếng Việt"
+    "transformed-name": "---"
   },
   "wo": {
-    "cldr-available": true,
-    "cldr-name": "Wolof",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "Wolof",
     "transform-type": "---",
-    "transformed-name": "Wolof"
+    "transformed-name": "---"
   },
   "xh": {
-    "cldr-available": true,
-    "cldr-name": "isiXhosa",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "IsiXhosa",
     "transform-type": "---",
-    "transformed-name": "Isixhosa"
+    "transformed-name": "---"
   },
   "zam": {
     "cldr-available": false,
@@ -798,17 +798,17 @@
     "transformed-name": "---"
   },
   "zh-CN": {
-    "cldr-available": true,
-    "cldr-name": "简体中文",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "中文",
     "transform-type": "---",
-    "transformed-name": "简体中文"
+    "transformed-name": "---"
   },
   "zh-TW": {
-    "cldr-available": true,
-    "cldr-name": "繁體中文",
+    "cldr-available": false,
+    "cldr-name": "---",
     "mozilla-name": "中文",
     "transform-type": "---",
-    "transformed-name": "繁體中文"
+    "transformed-name": "---"
   }
 }

@@ -5,7 +5,7 @@ import os
 import sys
 from collections import OrderedDict
 from urllib.request import urlopen
-
+import urllib.error
 
 # This array is used to map a Mozilla code to CLDR, e.g.
 # 'es-ES': 'es'
@@ -62,10 +62,10 @@ transvision_map = {
 
 def getShippingLocales():
     # Get the list of locales shipping in Firefox
-    base = "https://hg.mozilla.org/mozilla-central/raw-file/default/{}"
+    base = "https://hg.mozilla.org/mozilla-central/raw-file/default"
     locales_urls = [
-        base.format("browser/locales/all-locales"),
-        base.format("mobile/android/locales/all-locales"),
+        f"{base}/browser/locales/all-locales",
+        f"{base}/mobile/android/locales/all-locales",
     ]
 
     shipping_locales = []
@@ -124,10 +124,12 @@ def main():
                 json_data = json.load(response)
                 if locale in json_data:
                     languages[locale]["mozilla-name"] = json_data[locale]
-        except Exception as e:
-            print("Error retrieving translations for {}".format(locale))
-            print(url)
-            sys.exit(e)
+        except urllib.error.HTTPError as e:
+            if e.code == 400:
+                print(f"Error retrieving translations for {locale}")
+                print(url)
+        except urllib.error.URLError as e:
+            sys.exit(f"URLError: {e.reason}")
 
         # Check if a folder for this locale exists in CLDR
         if not os.path.isdir(cldr_path_names):
@@ -151,7 +153,7 @@ def main():
                         cldr_locale
                     ]["contextTransforms"]["languages"]["uiListOrMenu"]
                 except Exception:
-                    print("Transform not available for {}".format(locale))
+                    print(f"Transform not available for {locale}")
 
         # Read language name from CLDR
         language_file = os.path.join(cldr_path_names, "languages.json")
@@ -163,7 +165,7 @@ def main():
                         "localeDisplayNames"
                     ]["languages"][cldr_locale]
                 except Exception as e:
-                    print("CLDR name not available for {}".format(locale))
+                    print(f"CLDR name not available for {locale}")
 
         # Apply text transformation
         language_name = languages[locale]["cldr-name"]
