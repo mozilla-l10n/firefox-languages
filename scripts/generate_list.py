@@ -2,6 +2,7 @@
 
 import json
 import os
+import sys
 from collections import OrderedDict
 from urllib.request import urlopen
 
@@ -126,7 +127,7 @@ def main():
         except Exception as e:
             print("Error retrieving translations for {}".format(locale))
             print(url)
-            print(e)
+            sys.exit(e)
 
         # Check if a folder for this locale exists in CLDR
         if not os.path.isdir(cldr_path_names):
