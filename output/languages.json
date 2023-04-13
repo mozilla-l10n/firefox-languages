@@ -751,7 +751,7 @@
   "uk": {
     "cldr-available": true,
     "cldr-name": "українська",
-    "mozilla-name": "Українська",
+    "mozilla-name": "---",
     "transform-type": "titlecase-firstword",
     "transformed-name": "Українська"
   },
