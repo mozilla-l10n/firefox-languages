@@ -14,11 +14,11 @@
     "transformed-name": "Afrikaans"
   },
   "an": {
-    "cldr-available": false,
-    "cldr-name": "---",
+    "cldr-available": true,
+    "cldr-name": "aragonés",
     "mozilla-name": "Aragonés",
     "transform-type": "---",
-    "transformed-name": "---"
+    "transformed-name": "Aragonés"
   },
   "ar": {
     "cldr-available": true,
@@ -294,11 +294,11 @@
     "transformed-name": "Galego"
   },
   "gn": {
-    "cldr-available": false,
-    "cldr-name": "---",
+    "cldr-available": true,
+    "cldr-name": "avañe’ẽ",
     "mozilla-name": "Guarani",
     "transform-type": "---",
-    "transformed-name": "---"
+    "transformed-name": "Avañe’Ẽ"
   },
   "gu-IN": {
     "cldr-available": true,
@@ -441,11 +441,11 @@
     "transformed-name": "한국어"
   },
   "lij": {
-    "cldr-available": false,
-    "cldr-name": "---",
+    "cldr-available": true,
+    "cldr-name": "ligure",
     "mozilla-name": "Ligure",
     "transform-type": "---",
-    "transformed-name": "---"
+    "transformed-name": "Ligure"
   },
   "lo": {
     "cldr-available": true,
@@ -554,10 +554,10 @@
   },
   "oc": {
     "cldr-available": true,
-    "cldr-name": "oc",
+    "cldr-name": "---",
     "mozilla-name": "Occitan",
     "transform-type": "---",
-    "transformed-name": "Oc"
+    "transformed-name": "---"
   },
   "pa-IN": {
     "cldr-available": true,
@@ -623,11 +623,11 @@
     "transformed-name": "Sardu"
   },
   "scn": {
-    "cldr-available": false,
-    "cldr-name": "---",
+    "cldr-available": true,
+    "cldr-name": "sicilianu",
     "mozilla-name": "---",
     "transform-type": "---",
-    "transformed-name": "---"
+    "transformed-name": "Sicilianu"
   },
   "sco": {
     "cldr-available": false,
@@ -693,11 +693,11 @@
     "transformed-name": "Svenska"
   },
   "szl": {
-    "cldr-available": false,
-    "cldr-name": "---",
+    "cldr-available": true,
+    "cldr-name": "ślōnski",
     "mozilla-name": "Ślōnsko",
     "transform-type": "---",
-    "transformed-name": "---"
+    "transformed-name": "Ślōnski"
   },
   "ta": {
     "cldr-available": true,
