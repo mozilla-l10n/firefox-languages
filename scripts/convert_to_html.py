@@ -24,13 +24,11 @@ def main():
     tbl_content = []
     for locale_code, language_name in curated_data.items():
         tbl_content.append(
-            """
+            f"""
         <tr>
-            <td>{}</td>
-            <td>{}</td>
-        </tr>""".format(
-                locale_code, language_name
-            )
+            <td>{locale_code}</td>
+            <td>{language_name}</td>
+        </tr>"""
         )
 
     # Write HTML output
@@ -55,23 +53,17 @@ def main():
 
     tbl_content = []
     for locale_code, locale_data in complete_data.items():
+        available_cldr = "Yes" if locale_data["cldr-available"] else "No"
         tbl_content.append(
-            """
+            f"""
         <tr>
-            <td>{}</td>
-            <td>{}</td>
-            <td>{}</td>
-            <td>{}</td>
-            <td>{}</td>
-            <td>{}</td>
-        </tr>""".format(
-                "Yes" if locale_data["cldr-available"] else "No",
-                locale_code,
-                locale_data["cldr-name"],
-                locale_data["transform-type"],
-                locale_data["transformed-name"],
-                locale_data["mozilla-name"],
-            )
+            <td>{locale_code}</td>
+            <td>{available_cldr}</td>
+            <td>{locale_data["cldr-name"]}</td>
+            <td>{locale_data["transform-type"]}</td>
+            <td>{locale_data["transformed-name"]}</td>
+            <td>{locale_data["mozilla-name"]}</td>
+        </tr>"""
         )
 
     # Write HTML output
