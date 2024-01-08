@@ -183,7 +183,7 @@
   },
   "eo": {
     "cldr-available": true,
-    "cldr-name": "esperanto",
+    "cldr-name": "Esperanto",
     "mozilla-name": "Esperanto",
     "transform-type": "---",
     "transformed-name": "Esperanto"
@@ -554,10 +554,10 @@
   },
   "oc": {
     "cldr-available": true,
-    "cldr-name": "---",
+    "cldr-name": "occitan",
     "mozilla-name": "Occitan",
     "transform-type": "---",
-    "transformed-name": "---"
+    "transformed-name": "Occitan"
   },
   "pa-IN": {
     "cldr-available": true,
@@ -651,11 +651,11 @@
     "transformed-name": "Slovenčina"
   },
   "skr": {
-    "cldr-available": false,
-    "cldr-name": "---",
+    "cldr-available": true,
+    "cldr-name": "سرائیکی",
     "mozilla-name": "---",
     "transform-type": "---",
-    "transformed-name": "---"
+    "transformed-name": "سرائیکی"
   },
   "sl": {
     "cldr-available": true,
