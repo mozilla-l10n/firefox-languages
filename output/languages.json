@@ -482,26 +482,12 @@
     "transform-type": "---",
     "transformed-name": "---"
   },
-  "mix": {
-    "cldr-available": false,
-    "cldr-name": "---",
-    "mozilla-name": "---",
-    "transform-type": "---",
-    "transformed-name": "---"
-  },
   "mk": {
     "cldr-available": true,
     "cldr-name": "македонски",
     "mozilla-name": "Македонски",
     "transform-type": "---",
     "transformed-name": "Македонски"
-  },
-  "ml": {
-    "cldr-available": true,
-    "cldr-name": "മലയാളം",
-    "mozilla-name": "---",
-    "transform-type": "---",
-    "transformed-name": "മലയാളം"
   },
   "mr": {
     "cldr-available": true,
@@ -789,13 +775,6 @@
     "mozilla-name": "IsiXhosa",
     "transform-type": "---",
     "transformed-name": "Isixhosa"
-  },
-  "zam": {
-    "cldr-available": false,
-    "cldr-name": "---",
-    "mozilla-name": "---",
-    "transform-type": "---",
-    "transformed-name": "---"
   },
   "zh-CN": {
     "cldr-available": true,
