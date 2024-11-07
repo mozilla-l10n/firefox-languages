@@ -163,7 +163,7 @@
   "en-CA": {
     "cldr-available": true,
     "cldr-name": "Canadian English",
-    "mozilla-name": "English",
+    "mozilla-name": "---",
     "transform-type": "---",
     "transformed-name": "Canadian English"
   },
