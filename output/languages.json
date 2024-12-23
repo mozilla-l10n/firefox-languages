@@ -772,7 +772,7 @@
   "vi": {
     "cldr-available": true,
     "cldr-name": "Tiếng Việt",
-    "mozilla-name": "Việt",
+    "mozilla-name": "Tiếng Việt",
     "transform-type": "---",
     "transformed-name": "Tiếng Việt"
   },
