@@ -191,7 +191,7 @@
   "es-AR": {
     "cldr-available": true,
     "cldr-name": "---",
-    "mozilla-name": "Español",
+    "mozilla-name": "---",
     "transform-type": "titlecase-firstword",
     "transformed-name": "---"
   },
