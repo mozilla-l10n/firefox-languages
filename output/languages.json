@@ -462,7 +462,7 @@
     "transformed-name": "Lietuvių"
   },
   "ltg": {
-    "cldr-available": false,
+    "cldr-available": true,
     "cldr-name": "---",
     "mozilla-name": "Latgalīšu",
     "transform-type": "---",
