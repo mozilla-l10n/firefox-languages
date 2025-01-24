@@ -51,7 +51,7 @@
   "bg": {
     "cldr-available": true,
     "cldr-name": "български",
-    "mozilla-name": "Български",
+    "mozilla-name": "---",
     "transform-type": "---",
     "transformed-name": "Български"
   },
