@@ -254,7 +254,7 @@
   "fr": {
     "cldr-available": true,
     "cldr-name": "français",
-    "mozilla-name": "Français",
+    "mozilla-name": "---",
     "transform-type": "titlecase-firstword",
     "transformed-name": "Français"
   },
