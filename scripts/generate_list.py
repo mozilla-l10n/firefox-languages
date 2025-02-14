@@ -128,8 +128,7 @@ def main():
                     languages[locale]["mozilla-name"] = json_data[locale]
         except urllib.error.HTTPError as e:
             if e.code == 400:
-                print(f"Error retrieving translations for {locale}")
-                print(url)
+                sys.exit(f"Error retrieving translations for {locale}")
         except urllib.error.URLError as e:
             sys.exit(f"URLError: {e.reason}")
 
