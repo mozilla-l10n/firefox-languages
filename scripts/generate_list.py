@@ -62,7 +62,7 @@ transvision_map = {
 
 def getShippingLocales():
     # Get the list of locales shipping in Firefox
-    base = "https://hg.mozilla.org/mozilla-central/raw-file/default"
+    base = "https://raw.githubusercontent.com/mozilla-firefox/firefox/refs/heads/main"
     locales_urls = [
         f"{base}/browser/locales/all-locales",
         f"{base}/mobile/android/locales/all-locales",
