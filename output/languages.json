@@ -310,7 +310,7 @@
   "he": {
     "cldr-available": true,
     "cldr-name": "עברית",
-    "mozilla-name": "עברית",
+    "mozilla-name": "---",
     "transform-type": "---",
     "transformed-name": "עברית"
   },
